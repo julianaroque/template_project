@@ -4,12 +4,10 @@
 ### Caracterização do problema
 * Qual é o problema? 
 </br>
-**CAC**
-</br>
+**CAC**</br>
+
 * Por que este problema é relevante? 
-</br>
-**A relavancia do problema é devido ao processamento**
-</br>
+</br>**A relavancia do problema é devido ao processamento*</br>
 * Qual é a relação com outros problemas? 
 </br>
 **sdfsfsd**
